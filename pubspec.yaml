@@ -7,8 +7,7 @@ repository: https://github.com/GeekyAnts/infinite-carousel-flutter
 issue_tracker: https://github.com/GeekyAnts/infinite-carousel-flutter/issues
 
 environment:
-  sdk: ">=3.2.1 <4.0.0"
-  flutter: ">=3.3.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
